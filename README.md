@@ -101,13 +101,7 @@ agent.conf – placeholder
 docs/ – Lab notes, troubleshooting steps, lessons learned
 lab_notes.md – placeholder
 troubleshooting.md – placeholder
-📸 Screenshots
-Dashboard
-�
-Ubuntu Agent Logs
-�
-Windows Agent Logs
-�
+
 📂 Configuration Files
 Wazuh Manager Config
 Agent Config
@@ -121,12 +115,14 @@ This file contains step-by-step notes from the SOC lab setup.
 - Resource management in VirtualBox (CPU, RAM)
 - Monitoring alerts and event logs
 - Lessons learned and observations
+  
 🏆 Skills Gained
 SOC architecture and monitoring workflow
 Linux and Windows administration
 Wazuh deployment, configuration, and troubleshooting
 Virtual machine management (VirtualBox)
 Security monitoring, event analysis, and incident response
+
 
 
 
