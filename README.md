@@ -54,6 +54,22 @@ sudo systemctl enable wazuh-indexer
 sudo systemctl start wazuh-indexer
 sudo systemctl status wazuh-indexer
 
+## Skills Gained
+
+- SOC deployment and management
+- Wazuh Manager, Indexer, and Dashboard installation
+- Wazuh agent configuration and multi-OS monitoring
+- Linux system administration (Ubuntu 24.04)
+- Windows system administration (Windows Server)
+- Log collection, alert analysis, and event correlation
+- Incident response simulations
+- Troubleshooting deployment issues and memory limitations
+- VirtualBox VM management (RAM, CPU, networking)
+- Documentation of configurations, commands, and lab steps
+- Resource allocation and performance optimization
+- Reading and interpreting system logs and Wazuh alerts
+- Hands-on multi-VM cybersecurity lab experience
+
 
 
 
