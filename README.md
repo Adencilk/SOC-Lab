@@ -115,13 +115,14 @@ This file contains step-by-step notes from the SOC lab setup.
 - Resource management in VirtualBox (CPU, RAM)
 - Monitoring alerts and event logs
 - Lessons learned and observations
-  
+  #skills gained
 🏆 Skills Gained
 -SOC architecture and monitoring workflow
 -Linux and Windows administration
 -Wazuh deployment, configuration, and troubleshooting
 -Virtual machine management (VirtualBox)
 -Security monitoring, event analysis, and incident response
+
 
 
 
